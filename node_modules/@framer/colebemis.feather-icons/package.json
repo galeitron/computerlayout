@@ -1,0 +1,17 @@
+{
+	"main": "build/index.js",
+	"dependencies": {
+		"@types/react": "^16.0.31",
+		"framer": "^0.1.8",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "67145086-fa6f-4829-89df-18c63625cc59",
+		"displayName": "Feather Icons"
+	},
+	"author": "Cole Bemis",
+	"license": "MIT",
+	"name": "@framer/colebemis.feather-icons",
+	"version": "1.2.0"
+}
